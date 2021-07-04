@@ -64,3 +64,16 @@ h2{
     padding:3%;
     border-radius:10px;
 }
+#married{
+     border-left: 9px solid;
+     border-image:linear-gradient(rgb(231, 101, 49),rgb(212, 208, 203));
+     border-image-slice: 1;
+}
+#Businessman{
+    border-left: 9px solid;
+    border-image:linear-gradient(rgb(238, 15, 15),rgb(51, 27, 27));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
